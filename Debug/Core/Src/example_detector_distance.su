@@ -1,0 +1,2 @@
+../Core/Src/example_detector_distance.c:38:5:acc_example_detector_distance	96	dynamic
+../Core/Src/example_detector_distance.c:110:13:print_distances	24	static

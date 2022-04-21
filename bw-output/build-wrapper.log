@@ -1,0 +1,7 @@
+Thu Apr 21 16:16:14 2022: build-wrapper, version 6.32 (win-x86-64)
+Thu Apr 21 16:16:14 2022: isWow64: 0
+Thu Apr 21 16:16:14 2022: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Thu Apr 21 16:16:14 2022: current directory: C:\STM\Radar_limite_funciones\Primera_funcionalidad
+Thu Apr 21 16:16:14 2022: cwd: <C:\STM\Radar_limite_funciones\Primera_funcionalidad>
+Thu Apr 21 16:16:14 2022: out-dir absolute path: <C:\STM\Radar_limite_funciones\Primera_funcionalidad\bw-output>
+Thu Apr 21 16:16:14 2022: command line received: <C:/STM/Radar_limite_funciones/Primera_funcionalidad/bin/cmake.check_cache>

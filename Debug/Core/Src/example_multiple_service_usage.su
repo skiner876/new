@@ -1,0 +1,3 @@
+../Core/Src/example_multiple_service_usage.c:57:5:acc_example_multiple_service_usage	104	static
+../Core/Src/example_multiple_service_usage.c:201:6:print_envelope_data	24	static
+../Core/Src/example_multiple_service_usage.c:218:6:print_sparse_data	24	static

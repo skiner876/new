@@ -1,0 +1,4 @@
+../Core/Src/example_error_handling.c:47:5:acc_example_error_handling	104	dynamic
+../Core/Src/example_error_handling.c:152:6:print_data	24	static
+../Core/Src/example_error_handling.c:173:6:handle_indication	40	static
+../Core/Src/example_error_handling.c:251:6:restart_service	16	static
